@@ -54,7 +54,7 @@ describe('Testes de integração de API - KALOS CORP - Aluno', () => {
             foto: "https://img.r7.com/images/rosto-humano-irreal-inteligencia-artificial-19022019142836522?dimensions=1024x1024",
             cpf: "12345678950",
             senha: "vanessaSouza",
-            questao_condicao_medica: "Diabetes",
+            questao_condicao_medica: "Diabetes, Asma",
             questao_lesoes: "Braço quebrado",
             questao_medicamento: "Glifage Xr 500mg",
             peso: "70.5",
